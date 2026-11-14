@@ -12,10 +12,10 @@ visualise and analyse data from sources such as CSV files and SQL databases
 
 ## CONTENT
 
-**PART A ->** **DATA AND PROGRAM DESIGN**   
+**PART A ->** **DATA AND PROGRAM DESIGN**
 
-**| Folder / Task | Description |**
-|---|---|---|
+| Folder / Task | Description |
+|---|---|
 | TASK A1 | DESIGN THE DATA ACQUISITION | 
 | TASK A2 | DESIGN THE CLEANING AND NORMALISATION |
 | TASK A3 | DESIGN THE ANALYSIS AND VISUALISATION |
@@ -25,8 +25,8 @@ visualise and analyse data from sources such as CSV files and SQL databases
 
 **PART B ->** **IMPLEMENTATION & EXPERIMENTAL INVESTIGATION**
 
-**| Folder / Task | Description |**
-|---|---|---|
+| Folder / Task | Description |
+|---|---|
 | TASK B1 | IMPLEMENT AND VALIDATE THE CLEANING PIPELINE | 
 | TASK B2 | ENGINEER ADVERSARIAL DATA | 
 | TASK B3 | LOOPS vs LIBRARIES vs SQL | 
